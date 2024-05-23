@@ -1,0 +1,15 @@
+.title{
+    background-color: pink;
+    text-align: center;
+    width: 900px;
+    height: auto;
+}
+
+.description{
+    font-size: 25px;
+}
+
+#description-title{
+    background-color: pink;
+    font-size: 30px;
+}
